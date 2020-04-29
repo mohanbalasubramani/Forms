@@ -1,0 +1,11 @@
+.personal.section {
+    width: 500px;
+    margin: 0 auto;
+}
+
+.personal.section input {
+    display: flex;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
